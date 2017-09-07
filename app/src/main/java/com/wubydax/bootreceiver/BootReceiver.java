@@ -27,6 +27,7 @@ public class BootReceiver extends BroadcastReceiver {
             Settings.System.putString(cr, context.getString(R.string.tiles_key), context.getString(R.string.tiles_value));
             Settings.System.putString(cr, context.getString(R.string.reset_key), context.getString(R.string.tiles_value));
             Settings.System.putInt(cr, context.getString(R.string.active_tiles_number_key), context.getResources().getInteger(R.integer.active_tiles_number));
+            Settings.System.putInt(cr, context.getString(R.string.active_reset_number_key), context.getResources().getInteger(R.integer.active_tiles_number));
             //Adopted for working on Settings.Secure
             /*
             You can use this method to make changes to the settings storage

@@ -10,4 +10,5 @@
     <string name="tiles_value" translatable="false">Wifi;MobileData;Location;SilentMode;AutoRotate;Bluetooth;MultiWindow;AllShareCast;Nfc;Sync;PowerSaving;AirplaneMode;DormantMode;</string>
     <string name="reset_key" translatable="false">notification_panel_active_app_list_for_reset</string>
     <string name="active_tiles_number_key" translatable="false">notification_panel_active_number_of_apps</string>
+    <string name="active_reset_number_key" translatable="false">notification_panel_active_number_of_apps_for_reset</string>
 </resources>
