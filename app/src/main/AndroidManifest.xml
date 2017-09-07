@@ -3,6 +3,7 @@
           package="com.wubydax.bootreceiver">
 
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
     <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"
                      tools:ignore="ProtectedPermissions"/>
 

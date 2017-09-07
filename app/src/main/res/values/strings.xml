@@ -7,6 +7,6 @@
 
     <!--Keys and values - untranslatable-->
     <string name="tiles_key" translatable="false">sysui_qs_tiles</string>
-    <string name="tiles_value" translatable="false">Wifi,MobileData,Flashlight,Location,SilentMode,RotationLock,Bluetooth,PowerSaving,AirplaneMode,DormantMode,UltraPowerSaving,WifiHotspot,PersonalMode,AllShareCast,Nfc,Sync,Aod,SFinder,</string>
+    <string name="tiles_value" translatable="false">Wifi,MobileData,Location,SilentMode,AutoRotate,Bluetooth,MultiWindow,AllShareCast,Nfc,Sync,PowerSaving,AirplaneMode,DormantMode,</string>
     <string name="active_tiles_number_key" translatable="false">sysui_qs_active_tiles</string>
 </resources>
